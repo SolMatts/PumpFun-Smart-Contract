@@ -58,10 +58,6 @@ CA: [`DkgjYaaXrunwvqWT3JmJb29BMbmet7mWUifQeMQLSEQH`](https://solscan.io/account/
 
 Meteora Migration Tx: [`4xuL6UqNHU7DRtTvCA5S8bbunTs7k8KF7zAJiegdG2Ngujafz6CdJEZLQ3VQKX942Hp7Eb4gxXGwDLjHb4STzCCS`](https://solscan.io/tx/4xuL6UqNHU7DRtTvCA5S8bbunTs7k8KF7zAJiegdG2Ngujafz6CdJEZLQ3VQKX942Hp7Eb4gxXGwDLjHb4STzCCS?cluster=devnet)
 
-## Author
-
-[idioRusty](https://t.me/idioRusty)
-
 
 
 
